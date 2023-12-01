@@ -1,0 +1,4 @@
+*.out
+*.dSYM/*
+in.txt
+test.txt
