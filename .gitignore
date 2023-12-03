@@ -2,3 +2,8 @@
 *.dSYM/*
 in.txt
 test.txt
+
+.idea/
+build/
+CMakeLists.txt
+.vscode/
