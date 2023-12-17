@@ -7,3 +7,4 @@ test.txt
 build/
 CMakeLists.txt
 .vscode/
+.cache/
